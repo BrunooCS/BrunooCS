@@ -24,13 +24,5 @@ Unsupervised Dynamic Feature Selection for Robust Latent Spaces in Vision Tasks<
 
 Instance-specific, unsupervised feature selection for robust visual representations.
 
-#### Research code
-
-Perceptual Latent Representations for World Models<br />
-<sub>Bachelor’s thesis · 2025 · <a href="https://github.com/BrunooCS/Perceptual-Latent-Representations-World-Model">Code ↗</a></sub><br />
-Visual fidelity and latent dynamics for world models.
-
-World Models — PyTorch<br />
-<sub>VAE · MDN-RNN · CMA-ES · <a href="https://github.com/BrunooCS/World-Model-2018">Code ↗</a></sub>
 
 <sub><a href="https://github.com/BrunooCS?tab=repositories">All repositories ↗</a></sub>
